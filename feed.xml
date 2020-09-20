@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>SQL for Business / Data Analytics</title>
+    <link href="https://ajit555.github.io/sql-business-data-analytics/feed.xml" rel="self" />
+    <link href="https://ajit555.github.io/sql-business-data-analytics" />
+    <updated>1970-01-01T05:30:00+05:30</updated>
+    <author>
+        <name>Ajit Singh</name>
+    </author>
+    <id>https://ajit555.github.io/sql-business-data-analytics</id>
+
+    <entry>
+        <title>Table of Contents</title>
+        <author>
+            <name>Ajit Singh</name>
+        </author>
+        <link href="https://ajit555.github.io/sql-business-data-analytics/table-of-contents.html"/>
+        <id>https://ajit555.github.io/sql-business-data-analytics/table-of-contents.html</id>
+
+        <updated>2020-09-20T18:30:32+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Table of ContentsAboutBasic SQL
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Table of Contents</p>
+<ul>
+<li>About</li>
+<li>Basic SQL</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
+</feed>

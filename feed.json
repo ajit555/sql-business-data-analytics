@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SQL for Business / Data Analytics",
+    "description": "",
+    "home_page_url": "https://ajit555.github.io/sql-business-data-analytics",
+    "feed_url": "https://ajit555.github.io/sql-business-data-analytics/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ajit Singh"
+    },
+    "items": [
+        {
+            "id": "https://ajit555.github.io/sql-business-data-analytics/table-of-contents.html",
+            "url": "https://ajit555.github.io/sql-business-data-analytics/table-of-contents.html",
+            "title": "Table of Contents",
+            "summary": "Table of ContentsAboutBasic SQL",
+            "content_html": "<p>Table of Contents</p>\n<ul>\n<li>About</li>\n<li>Basic SQL</li>\n</ul>\n",
+            "author": {
+                "name": "Ajit Singh"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-20T18:30:32+05:30",
+            "date_modified": "2020-09-20T18:30:32+05:30"
+        }
+    ]
+}
